@@ -25,6 +25,7 @@ Remove the oscillator and mount the Pico as closely to its board location as is 
 - **Pins 6, 7 and 9** correspond to those pins on the first controller port, counting 1 through 9 starting with the top left pin from the front of the console.
 - **Cart Enable** corresponds to pin B17 of the cartridge port, pin B1 is the leftmost pin at the front, facing the console. This is used for the TMSS bypass, if you are installing this on a non TMSS console, this should probably be connected to ground.
 - **MRES** corresponds to pin B2 of the cartridge port. This is used for the TMSS bypass,when a flashcart gets in and out of special modes such as Master System or Sega CD. If you are installing this on a non TMSS console, this should not be connected.
+- **M3** corresponds to pin B30 of the cartridge port, required to detect master system mode.
 - The **VCLK** and **HALT** connections are optional if for some reason you do not wish to use the overclocking feature. If you want to have an LED that shows you what state the mod is in, get a "common cathode" bi-color LED. Attach the cathode to ground somewhere, and the two anodes to LED1 and LED2. Region is indicated by changing color: LED1's color indicates Japan, LED2's color indicates US/Americas, and the mix of the two colors indicates Europe. Overclock is indicated by pulsing the LED at 3Hz when it's enabled. See the MD2 VA0 install below for a suggested mounting for Model 2 MDs.
 
 ![Screenshot_20250620_130043_Firefox](https://github.com/user-attachments/assets/a3d26eb5-29e0-487f-9045-4d70c442b57f)
