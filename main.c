@@ -27,6 +27,7 @@
 #include "hardware/gpio.h"
 
 #define GPIO_OC_LED_PIN 1
+#define GPIO_M3_PIN 5           // master system mode detect
 #define GPIO_MRES_PIN 9         // !MRES to monitor hard resets and perform TMSS Skip again.
 #define GPIO_HALT_PIN 10        // !HALT pin of 68K
 #define GPIO_A_B_PIN 11         // Wired to controller port 1 pin 6
@@ -368,6 +369,11 @@ int main() {
     gpio_init(GPIO_S_C_PIN);
     gpio_set_dir(GPIO_S_C_PIN, GPIO_IN);
 
+     //Master system mode detect
+    gpio_init (GPIO_M3_PIN);
+    gpio_set_dir (GPIO_M3_PIN,GPIO_IN );
+    gpio_pull_up (GPIO_M3_PIN);
+
     // Board LED
     gpio_init(PICO_DEFAULT_LED_PIN);
     gpio_set_dir(PICO_DEFAULT_LED_PIN, GPIO_OUT);
@@ -456,7 +462,9 @@ int main() {
                 gpio_put(GPIO_OC_LED_PIN, oc_on);
             }
         }
-        
+
+        // Only in mega drive mode. Necessary for mega everdrive pro with master system games.
+        if (gpio_get(GPIO_M3_PIN) == true ) {
         // Swap region with reset button
         // Press Reset 3x within 1 sec of each other to switch to the next
         // region: Japan > Americas > Europe > Japan ...
@@ -485,5 +493,6 @@ int main() {
         }
 
         sleep_ms(1);
-    }   
+    } 
+    }
 }
