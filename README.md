@@ -39,7 +39,7 @@ IMPORTANT: First, download the firmware image from the link [flash_nuke](https:/
 
 ## 📋 Feature Comparison
 
-| User Feature / Action | **Extreme Edition** | **Open Heart** | **OpenHeart Lite** |
+| User Feature / Action | **Extreme Edition IV REV 05** | **Open Heart 3.0** | **OpenHeart Lite 3.0** |
 |---|---|---|---|
 | **Restart game by control** | Available | Available | Available |
 | **Pico reset by control** | Available |**Not available**  |**Not available** |
