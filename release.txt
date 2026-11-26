@@ -3,7 +3,7 @@
 --> Added a visual wait notification and function lockout when controller communication is interrupted.
 --> Added support for disabling TMSS Skip.
 --> Added a secret Easter egg feature.
---> Added initial profile selection.
+--> Added sound startup profile selection.
 
 === v 3.0 ==-
 --> Add selection menu via display.
