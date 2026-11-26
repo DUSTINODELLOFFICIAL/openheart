@@ -4,7 +4,7 @@
 Contact itnp@msn.com
 
 # Open Heart by 32mbit
-# Version 3.0 Rev 05
+# Version 3.0
 
 Multi-region mod for Sega Genesis/Mega Drive using Raspberry Pi Pico (RP2040). This project allows switching between regions, controlling frequency, enabling Master System mode, overclocking, and much more — all via controller or physical button.
 
@@ -62,6 +62,9 @@ IMPORTANT: First, download the firmware image from the link [flash_nuke](https:/
 | **Unlock limit** | — | Necessary | — |
 | **Display MENU**   | Available | Available | **Not available**  |
 | **Hotkeys OFF/ON** | Available | Available | **Not available**  |
+| **TMSS OFF/ON** | Available | **Not available** | **Not available**  |
+| **Easter egg** | Available | **Not available** | **Not available**  |
+| **Bug Fixed/visual wait rev05** | Available | **Not available** | **Not available**  |
 
 ---
 
@@ -329,7 +332,7 @@ Contact itnp@msn.com
 
 
 # Open Heart by 32mbit
-# Versão 3.0 Rev 05
+# Versão 3.0
 
 Mod multi-região para Sega Genesis/Mega Drive usando Raspberry Pi Pico (RP2040). Este projeto permite alternar entre regiões, controlar frequência, ativar modo Master System, overclock, e muito mais — tudo via controle ou botão físico.
 
