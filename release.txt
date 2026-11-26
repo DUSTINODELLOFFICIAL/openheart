@@ -1,3 +1,9 @@
+== v IV rev 05 ==
+--> Bug fixed change region and instability.
+--> Added a visual wait notification and function lockout when controller communication is interrupted.
+--> Added support for disabling TMSS Skip.
+--> Added a secret Easter egg feature.
+
 === v 3.0 ==-
 --> Add selection menu via display.
 --> Add hotkeys ON/OFF via display.
