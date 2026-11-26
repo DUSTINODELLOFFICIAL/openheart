@@ -64,6 +64,7 @@ IMPORTANT: First, download the firmware image from the link [flash_nuke](https:/
 | **Hotkeys OFF/ON** | Available | Available | **Not available**  |
 | **TMSS OFF/ON** | Available | **Not available** | **Not available**  |
 | **Easter egg** | Available | **Not available** | **Not available**  |
+| **Sound startup selection** | Available | **Not available** | **Not available**  |
 | **Bug Fixed/visual wait rev05** | Available | **Not available** | **Not available**  |
 
 ---
