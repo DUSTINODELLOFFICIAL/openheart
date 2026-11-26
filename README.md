@@ -361,7 +361,7 @@ IMPORTANTE: Primeiro, baixe a imagem do firmware do link [flash_nuke](https://gi
 
 ## 📋 Comparativo de Funcionalidades.
 
-| Recurso / Ação do Usuário | **Extreme Edition** | **Open Heart** | **OpenHeart Lite** |
+| Recurso / Ação do Usuário | **Extreme Edition IV rev 05** | **Open Heart 3.0** | **OpenHeart Lite 3.0** |
 |---|---|---|---|
 | **Reiniciar o jogo pelo controle** | Disponível | Disponível | Disponível |
 | **Pico reset pelo controle** | Disponível |**Não disponível**  |**Não disponível** |
@@ -384,6 +384,9 @@ IMPORTANTE: Primeiro, baixe a imagem do firmware do link [flash_nuke](https://gi
 | **Destravar limite** | — | Necessário | — |
 | **MENU no display** | Disponível | Disponível | **Não disponível**  |
 | **Atalhos OFF/ON** | Disponível | Disponível | **Não disponível**  |
+| **TMSS OFF/ON** | Disponível | Disponível | **Não disponível**  |
+| **Easter egg** | Disponível | Disponível | **Não disponível**  |
+| **Bug Fixed/visual aguarde rev05** | Disponível | Disponível | **Não disponível**  |
 
 ---
 
