@@ -1,5 +1,5 @@
 # SPECIAL OFFER:
-**Mega Drive Extreme Edition IV Rev 05 Firmware for $39.90**
+**Mega Drive Extreme Edition IV Rev 05 Firmware for $49.90**
 
 Contact itnp@msn.com
 
