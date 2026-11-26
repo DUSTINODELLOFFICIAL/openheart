@@ -387,6 +387,7 @@ IMPORTANTE: Primeiro, baixe a imagem do firmware do link [flash_nuke](https://gi
 | **Atalhos OFF/ON** | Disponível | Disponível | **Não disponível**  |
 | **TMSS OFF/ON** | Disponível | **Não disponível** | **Não disponível**  |
 | **Easter egg** | Disponível | **Não disponível** | **Não disponível**  |
+| **Seleção de inicialização sonora** | Disponível | **Não disponível** | **Não disponível**  |
 | **Bug Fixed/visual aguarde rev05** | Disponível | **Não disponível** | **Não disponível**  |
 
 ---
