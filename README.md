@@ -1,10 +1,10 @@
 # SPECIAL OFFER:
-**Mega Drive Extreme Edition IV Rev 03 Firmware for $39.90**
+**Mega Drive Extreme Edition IV Rev 05 Firmware for $39.90**
 
 Contact itnp@msn.com
 
 # Open Heart by 32mbit
-# Version 3.0
+# Version 3.0 Rev 05
 
 Multi-region mod for Sega Genesis/Mega Drive using Raspberry Pi Pico (RP2040). This project allows switching between regions, controlling frequency, enabling Master System mode, overclocking, and much more — all via controller or physical button.
 
@@ -323,13 +323,13 @@ Project inspired by 32mbit and enhanced.
 ---
 
 # OFERTA ESPECIAL:
-**Mega Drive Extreme Edition IV Rev 03 Firmware por $39.90**
+**Mega Drive Extreme Edition IV Rev 05 Firmware por $49.90**
 
 Contact itnp@msn.com
 
 
 # Open Heart by 32mbit
-# Versão 3.0
+# Versão 3.0 Rev 05
 
 Mod multi-região para Sega Genesis/Mega Drive usando Raspberry Pi Pico (RP2040). Este projeto permite alternar entre regiões, controlar frequência, ativar modo Master System, overclock, e muito mais — tudo via controle ou botão físico.
 
