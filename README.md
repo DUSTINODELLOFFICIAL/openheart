@@ -3,15 +3,6 @@
 
 Contact itnp@msn.com
 
-# Open Heart by 32mbit
-# Version 3.0
-
-Multi-region mod for Sega Genesis/Mega Drive using Raspberry Pi Pico (RP2040). This project allows switching between regions, controlling frequency, enabling Master System mode, overclocking, and much more — all via controller or physical button.
-
-Note: Mega Drive Extreme Edition IV is the codename for the Mega Drive based on the Open Heart 2 project developed for the Brazilian community, but the functions and operation are the same.
-
----
-
 
 ## 📦 Version Information
 
@@ -21,19 +12,17 @@ Note: Mega Drive Extreme Edition IV is the codename for the Mega Drive based on 
 
 **Extreme Edition**: commercial and unrestricted version.
 
+---
 
 IMPORTANT: First, download the firmware image from the link [flash_nuke](https://github.com/DUSTINODELLOFFICIAL/openheart/blob/main/build/flash_nuke.uf2) to remove any unnecessary files stored from previous Pico versions.
 
 >[!NOTE]
 > READ CAREFULLY
 >
-> Open Heart 3.0 is unrestricted for personal use; the time limit can now be easily disabled by you.
->
+> Open Heart Version is unrestricted for personal use; the time limit can now be easily disabled by you.
 > To disable the limitation, you must have a connected display. This is necessary to inform the user that this is a version for personal, non-commercial use and that its sale is prohibited. The commercial version is the Mega Drive Extreme Edition.
->
->If used without a display, it will work, but the time limitation will remain.
->
->If you want to use it without a display and without a time limit, use the Open Heart 3.0 Lite version or purchase the Extreme Edition.
+> If used without a monitor, it works, but only for a limited period of 15 minutes.
+> If you want to use it without a display and without a time limit, use the Open Heart Lite version or purchase the Extreme Edition.
 
 ---
 
@@ -68,6 +57,19 @@ IMPORTANT: First, download the firmware image from the link [flash_nuke](https:/
 | **Bug Fixed/visual wait rev05** | Available | **Not available** | **Not available**  |
 
 ---
+
+
+# Open Heart by 32mbit
+# Version 3.0
+
+Multi-region mod for Sega Genesis/Mega Drive using Raspberry Pi Pico (RP2040). This project allows switching between regions, controlling frequency, enabling Master System mode, overclocking, and much more — all via controller or physical button.
+
+Note: Mega Drive Extreme Edition IV is the codename for the Mega Drive based on the Open Heart 2 project developed for the Brazilian community, but the functions and operation are the same.
+
+---
+
+
+
 
 ## 🧩 Overview
 
@@ -147,6 +149,7 @@ Displayed messages:
 - Overclock status
 - Bluetooth on/off
 - Logos: SEGA, 16bit, Custom message
+
 
 <img src="https://github.com/DUSTINODELLOFFICIAL/openheart/blob/main/example/sd1306_04.jpeg" alt="ssd1306" width="300" /> <img src="https://github.com/DUSTINODELLOFFICIAL/openheart/blob/main/example/st7735_04.jpeg" alt="ST7735" width="300" />
 
@@ -331,35 +334,6 @@ Project inspired by 32mbit and enhanced.
 
 Contact itnp@msn.com
 
-
-# Open Heart by 32mbit
-# Versão 3.0
-
-Mod multi-região para Sega Genesis/Mega Drive usando Raspberry Pi Pico (RP2040). Este projeto permite alternar entre regiões, controlar frequência, ativar modo Master System, overclock, e muito mais — tudo via controle ou botão físico.
-
-Nota: Mega drive extreme edition IV é o codinome do Mega drive baseado no projeto Open heart 2 desenvolvido para a comunidade brasileira, mas o código fonte, funções e funcionamento são os mesmos.
-
----
-
-**Versão Open heart**: disponível para todos apenas para uso pessoal (não comercial). [Link download](https://github.com/DUSTINODELLOFFICIAL/openheart/blob/main/build/openheart30.uf2)
-
-**Versão Open Heart Lite**: disponível para todos apenas para uso pessoal (não comercial).[Link download](https://github.com/DUSTINODELLOFFICIAL/openheart/blob/main/build/openheart30LITE.uf2)
-
-**Extreme Edition**: versão comercial e irrestrita.
-
-IMPORTANTE: Primeiro, baixe a imagem do firmware do link [flash_nuke](https://github.com/DUSTINODELLOFFICIAL/openheart/blob/main/build/flash_nuke.uf2) para remover quaisquer arquivos desnecessários armazenados de versões anteriores.
-
->[!NOTE]
->LEIA COM ATENÇÃO
->
->Open Heart 3.0 é irrestrito para uso pessoal; o limite de tempo agora pode ser facilmente desativado por você.
->
->Para desativar a limitação, você precisa ter um monitor conectado. Isso é necessário para informar o usuário de que esta é uma versão para uso pessoal e não comercial, e que sua venda é proibida. A versão comercial é a Mega Drive Extreme Edition.
->
->Se usado sem um monitor, funcionará, mas o limite de tempo permanecerá.
->
->Se você quiser usá-lo sem um monitor e sem limite de tempo, use a versão Open Heart 3.0 Lite ou adquiria a versão Extreme Edition.
-
 ## 📋 Comparativo de Funcionalidades.
 
 | Recurso / Ação do Usuário | **Extreme Edition IV rev 05** | **Open Heart 3.0** | **OpenHeart Lite 3.0** |
@@ -389,6 +363,31 @@ IMPORTANTE: Primeiro, baixe a imagem do firmware do link [flash_nuke](https://gi
 | **Easter egg** | Disponível | **Não disponível** | **Não disponível**  |
 | **Seleção de inicialização sonora** | Disponível | **Não disponível** | **Não disponível**  |
 | **Bug Fixed/visual aguarde rev05** | Disponível | **Não disponível** | **Não disponível**  |
+
+---
+
+**Versão Open heart**: disponível para todos apenas para uso pessoal (não comercial). [Link download](https://github.com/DUSTINODELLOFFICIAL/openheart/blob/main/build/openheart30.uf2)
+
+**Versão Open Heart Lite**: disponível para todos apenas para uso pessoal (não comercial).[Link download](https://github.com/DUSTINODELLOFFICIAL/openheart/blob/main/build/openheart30LITE.uf2)
+
+**Extreme Edition**: versão comercial e irrestrita.
+
+IMPORTANTE: Primeiro, baixe a imagem do firmware do link [flash_nuke](https://github.com/DUSTINODELLOFFICIAL/openheart/blob/main/build/flash_nuke.uf2) para remover quaisquer arquivos desnecessários armazenados de versões anteriores.
+
+>[!NOTE]
+>LEIA COM ATENÇÃO
+> A versão do Open Heart é irrestrito para uso pessoal; o limite de tempo agora pode ser facilmente desativado por você.
+> Para desativar a limitação, você precisa ter um monitor conectado. Isso é necessário para informar o usuário de que esta é uma versão para uso pessoal e não comercial, e que sua venda é proibida. A versão comercial é a Mega Drive Extreme Edition.
+> Se utilizado sem um monitor, ele funciona, mas apenas por um período limitado de 15 minutos.
+> Se você quiser usá-lo sem um monitor e sem limite de tempo, use a versão Open Heart Lite ou adquiria a versão Extreme Edition.
+
+
+# Open Heart by 32mbit
+# Versão 3.0
+
+Mod multi-região para Sega Genesis/Mega Drive usando Raspberry Pi Pico (RP2040). Este projeto permite alternar entre regiões, controlar frequência, ativar modo Master System, overclock, e muito mais — tudo via controle ou botão físico.
+
+Nota: Mega drive extreme edition IV é o codinome do Mega drive baseado no projeto Open heart 2 desenvolvido para a comunidade brasileira, mas o código fonte, funções e funcionamento são os mesmos.
 
 ---
 
